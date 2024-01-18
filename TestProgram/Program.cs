@@ -4,6 +4,7 @@ using TestProgram;
 var settings = new Settings();
 
 Menu:
+Console.WriteLine("A. Get artist");
 Console.WriteLine("S. Search");
 Console.WriteLine("X. Quit");
 
